@@ -13,11 +13,11 @@ copyright = ""
     name = "Tour"
     url = "/index.xml"
   [[menu.main]]
-    name = "Soundbits"
+    name = "S"
     url = "https://github.com/bake/solar-theme-hugo/"
   [[menu.other]]
-    name = "Pics & Vids"
+    name = "Pics"
     url = "https://themes.gohugo.io/solar-theme-hugo/"
   [[menu.other]]
-    name = "Guestbook (voll 90er)"
+    name = "Demo"
     url = "https://themes.gohugo.io/theme/solar-theme-hugo/"
