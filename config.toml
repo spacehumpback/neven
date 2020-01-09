@@ -18,6 +18,6 @@ copyright = ""
   [[menu.other]]
     name = "Pics & Vids"
     url = "https://themes.gohugo.io/solar-theme-hugo/"
-  [[menu.other]]
-    name = "Guestbook (voll 90er)"
-    url = "https://themes.gohugo.io/theme/solar-theme-hugo/"
+  #[[menu.other]]
+   # name = "Guestbook (voll 90er)"
+   # url = "https://themes.gohugo.io/theme/solar-theme-hugo/"
