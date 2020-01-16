@@ -7,7 +7,7 @@ draft: false
 
 
 
-
+{{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
 
 ## So geschah es
 
