@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/</loc><lastmod>2020-01-16T15:46:10+01:00</lastmod></url><url><loc>/post/</loc><lastmod>2020-01-16T15:46:10+01:00</lastmod></url><url><loc>/post/today/</loc><lastmod>2020-01-16T15:46:10+01:00</lastmod></url><url><loc>/post/besuch-vom-b%C3%BCrokratier/</loc><lastmod>2020-01-09T15:19:41+01:00</lastmod></url><url><loc>/post/next-task-bouzouki-repair/</loc><lastmod>2020-01-09T15:00:07+01:00</lastmod></url><url><loc>/post/hello-and-welcome-my-name-is-sir-spooks/</loc><lastmod>2020-01-09T14:46:24+01:00</lastmod></url><url><loc>/post/test/</loc><priority>0</priority></url><url><loc>/categories/</loc></url><url><loc>/tags/</loc></url></urlset>
