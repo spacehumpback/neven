@@ -1,7 +1,7 @@
 ---
 title: "Besuch Vom Bürokratier"
 date: 2020-01-09T15:19:41+01:00
-draft: false
+draft: true
 ---
 
     ![](https://i.ytimg.com/vi/TusH5ICDUXw/mqdefault.jpg ) # HTTP url
